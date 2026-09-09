@@ -20,14 +20,9 @@ Hands-on projects for designing, implementing, evaluating, and preparing AI syst
 
 Bounded LLM extraction · deterministic orchestration · APIs · workflow state · authorization · idempotency · escalation · traces · evals · rollout economics
 
-### 🧭 [Initiative Intelligence](https://github.com/tommymeer/initiative-intelligence)
-Detects drift between stated company strategy and the work an organization is actually executing.
+## Other systems
 
-### 📝 [Meeting Intelligence](https://github.com/tommymeer/meeting-intelligence)
-Turns meeting transcripts into structured decisions, blockers, unresolved questions, and follow-up.
-
-### 📊 [Weekly Business Review Generator](https://github.com/tommymeer/wbr-generator)
-Separates deterministic metric computation from model interpretation to surface anomalies and operating questions.
-
-### 📈 [Pipeline & Forecast Synthesizer](https://github.com/tommymeer/pipeline-forecast-synthesizer)
-Turns CRM data into a structured revenue forecast by separating deterministic processing from model reasoning.
+🧭 [Initiative Intelligence](https://github.com/tommymeer/initiative-intelligence) ·
+📝 [Meeting Intelligence](https://github.com/tommymeer/meeting-intelligence) ·
+📊 [Weekly Business Review Generator](https://github.com/tommymeer/wbr-generator) ·
+📈 [Pipeline & Forecast Synthesizer](https://github.com/tommymeer/pipeline-forecast-synthesizer)
