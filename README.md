@@ -13,21 +13,21 @@ My background is in enterprise software across customer support, messaging, reve
 
 ## Featured work
 
-### 🤖 Enterprise AI Deployment Lab
+### 🤖 [Enterprise AI Deployment Lab](https://github.com/tommymeer/enterprise-ai-deployment-lab)
 Hands-on projects for designing, implementing, evaluating, and preparing AI systems for deployment in real operational workflows.
 
 **Flagship: Delivered-Not-Received Support Agent**
 
 Bounded LLM extraction · deterministic orchestration · APIs · workflow state · authorization · idempotency · escalation · traces · evals · rollout economics
 
-### 🧭 Initiative Intelligence
+### 🧭 [Initiative Intelligence](https://github.com/tommymeer/initiative-intelligence)
 Detects drift between stated company strategy and the work an organization is actually executing.
 
-### 📝 Meeting Intelligence
+### 📝 [Meeting Intelligence](https://github.com/tommymeer/meeting-intelligence)
 Turns meeting transcripts into structured decisions, blockers, unresolved questions, and follow-up.
 
-### 📊 Weekly Business Review Generator
+### 📊 [Weekly Business Review Generator](https://github.com/tommymeer/wbr-generator)
 Separates deterministic metric computation from model interpretation to surface anomalies and operating questions.
 
-### 📈 Pipeline & Forecast Synthesizer
+### 📈 [Pipeline & Forecast Synthesizer](https://github.com/tommymeer/pipeline-forecast-synthesizer)
 Turns CRM data into a structured revenue forecast by separating deterministic processing from model reasoning.
